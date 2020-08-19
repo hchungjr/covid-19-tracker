@@ -1,3 +1,7 @@
+# React demo project: COVID-19 Tracker
+
+This project was created to practice React App development and was done by following the tutorial from CleverProgrammer's YouTube channel.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
